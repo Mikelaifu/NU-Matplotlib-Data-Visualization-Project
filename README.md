@@ -1,1 +1,1 @@
-# NU-Matplotlib-data-visualozation
+# NU-Matplotlib-data-visualization
